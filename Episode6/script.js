@@ -50,5 +50,3 @@
 
 // let heading = document.querySelector("h1");
 
-let divs = document.querySelectorAll("box");
-console.dir(divs);
